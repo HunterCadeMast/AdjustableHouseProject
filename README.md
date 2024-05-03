@@ -1,7 +1,9 @@
 # AdjustableHouseProject
 
 **Video Link:**
-https://youtu.be/SBFqx6gVP0o
+https://youtu.be/2a0xJKfd9jg
+
+The folder "Final Project" contains the paper, video, and gallery of images taken of the project along with all of the targets used.
 
 **Project Description:**
 
@@ -25,7 +27,11 @@ Using IOS Device:
 Vuforia Verion: 10.21.3 (May need to be installed seperately)
 Unity Version: 3.7
 
-**Tests:**
+2 different files had to be deleted to upload to GitHub (Will need to reinstall Vuforia to the project):
+- \AdjustableHouseProject\BuildIOS\Frameworks\com.ptc.vuforia.engine\Vuforia\Plugins\iOS\Vuforia.framework\Vuforia
+- \AdjustableHouseProject\BuildIOS/Data/sharedassets0.asset
+
+**APK Tests:**
 Test 1: Inner Acrossed and Next
 Test 2: Inner and Opening
 Test 3: Openings, Furniture, and Color Menu
