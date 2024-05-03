@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="windowtarget4" size="1.000000 1.000000" />
+    <ImageTarget name="windowtarget3" size="1.000000 1.000000" />
+    <ImageTarget name="windowtarget2" size="1.000000 1.000000" />
+    <ImageTarget name="doortarget3" size="1.000000 1.000000" />
+    <ImageTarget name="doortarget2" size="1.000000 1.000000" />
+    <ImageTarget name="cornertarget12" size="1.000000 1.000000" />
+    <ImageTarget name="windowtarget1" size="1.000000 1.000000" />
+    <ImageTarget name="doortarget1" size="1.000000 1.000000" />
+    <ImageTarget name="test" size="1.000000 1.000000" />
+    <ImageTarget name="inner9" size="1.000000 1.000000" />
+    <ImageTarget name="inner8" size="1.000000 1.000000" />
+    <ImageTarget name="inner7" size="1.000000 1.000000" />
+    <ImageTarget name="inner6" size="1.000000 1.000000" />
+    <ImageTarget name="inner5" size="1.000000 1.000000" />
+    <ImageTarget name="inner4" size="1.000000 1.000000" />
+    <ImageTarget name="inner3" size="1.000000 1.000000" />
+    <ImageTarget name="inner2" size="1.000000 1.000000" />
+    <ImageTarget name="inner1" size="1.000000 1.000000" />
+    <ImageTarget name="corner11" size="1.000000 1.000000" />
+    <ImageTarget name="corner10" size="1.000000 1.000000" />
+    <ImageTarget name="corner9" size="1.000000 1.000000" />
+    <ImageTarget name="corner8" size="1.000000 1.000000" />
+    <ImageTarget name="corner7" size="1.000000 1.000000" />
+    <ImageTarget name="corner6" size="1.000000 1.000000" />
+    <ImageTarget name="corner5" size="1.000000 1.000000" />
+    <ImageTarget name="corner4" size="1.000000 1.000000" />
+    <ImageTarget name="corner3" size="1.000000 1.000000" />
+    <ImageTarget name="corner2" size="1.000000 1.000000" />
+    <ImageTarget name="corner1" size="1.000000 1.000000" />
+    <ImageTarget name="unittarget" size="1.000000 1.000000" />
+    <ImageTarget name="fridgetarget" size="1.000000 1.000000" />
+    <ImageTarget name="sofatarget" size="1.000000 1.000000" />
+    <ImageTarget name="bedtarget" size="1.000000 1.000000" />
+    <ImageTarget name="oventarget" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
